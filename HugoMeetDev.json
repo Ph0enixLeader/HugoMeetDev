@@ -4,10 +4,6 @@
   "release": "12.2-RELEASE",
   "artifact": "https://github.com/Ph0enixLeader/iocage-HugoMeet.git",
   "properties": { 
-    "mount_procfs": 1,
-    "mount_linprocfs": 1,
-    "allow_raw_sockets": 1,
-    "nat_forwards":"tcp(8042:8042),tcp(3000:3000),udp(8042:8042),udp(3000:3000)"
       },
   "pkgs": [
     "node14",
