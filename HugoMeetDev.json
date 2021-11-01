@@ -11,7 +11,7 @@
       },
   "pkgs": [
     "node14",
-    "npm-node14",
+    "npm-node14"
       ],
   "packagesite": "http://pkg.cdn.trueos.org/iocage",
   "fingerprints": {
